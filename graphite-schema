@@ -1,0 +1,9 @@
+events.all
+
+servers.all
+servers.groups.all
+
+policies.configuration.all
+policies.firewall.all
+
+users.all

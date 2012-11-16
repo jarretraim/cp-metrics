@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    daemons (1.1.9)
+    json (1.7.5)
+    log4r (1.1.10)
+    mime-types (1.19)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    settingslogic (2.0.8)
+    stringex (1.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  daemons
+  json
+  log4r
+  rest-client
+  settingslogic
+  stringex

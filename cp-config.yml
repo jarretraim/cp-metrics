@@ -1,0 +1,4 @@
+endpoint: https://api.cloudpassage.com/v1/
+key: 1bfdf61b
+secret: ed92b9e433bd29a36896f0ca2f25a873
+graphite: cp.threatboundary.org
